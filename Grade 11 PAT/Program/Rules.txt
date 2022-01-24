@@ -1,0 +1,24 @@
+How the game is played:
+
+The pack of 108 cards gets shuffled and each player gets at least 7 cards. Then the extra cards are placed facing down and the top card is placed on the table as the starting card. The players take turns playing cards that relate to the card on the table – colour, number or power card. You get 4 colours which are green, red, yellow and blue and each colour goes from 0-9. If the entire deck is used, the top discard is set aside and the rest of the pile is shuffled to create a new deck. The game then proceeds normally.
+Coloured power cards can be played only if they match the colour of the card on the table. 
+
+These coloured power cards include:
+1. Skip: The next player in the sequence misses their turn
+2. Reverse: the order of turns gets reversed (clockwise to anti-clockwise/anti-clockwise to clockwise). This card acts like a skip card in 2 player games.
+3. Draw 2: The next person in the sequence draws 2 cards. 
+
+Power cards that can be played no matter the colour of the card on the table include:
+1. Wild: The person who plays this card can change the colour of to play next to any of the 4 colours.
+2. Draw 4: The next player in the sequence draws 4 cards and the player of the card decides the next colour to play next.
+
+House rules
+(These are can be used as extra rules)
+1. Progressive Uno: If a draw card is played and the person who would receive the cards has the same kind of card, the number of cards can stack, adding the amount of the card to the overall draw amount.
+2. Seven-o: When the person who plays the 7 card is able to switch all of their cards with another player of their choice. The player who plays the 0 card is able to make every person exchange all their cards to the next person (according to sequence).
+3. Jump-in: If a person has exactly the same card (both number and colour) as the top card of the discard pile, they may play it immediately, even if it is not their turn. The game then continues as if that person (who jumped in) had just taken their turn.
+
+Penalties
+1. If a person plays their second last card and does not call “Uno” after putting it down and gets caught before the next person’s turn, they must draw 2 cards.
+2. If a person falsely calls “Uno” while having multiple cards in their hand, they draw 2 cards.
+3. If a person plays a Draw 4 card, the following person can challenge its use. The person who used the Draw 4 must privately show their hand to the challenging person, in order to demonstrate that they had no matching coloured cards. If the challenge is correct, then the challenged person draws four cards instead. If the challenge is wrong, then the challenger must draw six cards; the four cards they were already required to draw plus two more cards.
